@@ -26,7 +26,7 @@ const puppeteer = require('puppeteer');
   await page.click('[title="Like photo"]')
 
   
-console.log("teste");
+console.log("testefff");
 
 
   // await browser.close();
